@@ -2,7 +2,7 @@ In this game, the player and the AI opponent take turns making attacks and using
 Note that there is no maximum health, so birds can be "healed" above their starting health.
 ## Bird documentation
 ### Robin
-The Robin has the Power to heal friendly birds by 3 health points. Beware, however, as this will use up your Robin entirely! 1 damage, 5 H. There are 2 Robins present in the game.
+The Robin has the Power to heal friendly birds by 3 health points. Beware, however, as this will use up your Robin entirely! 1 damage, 5 health. There are 2 Robins present in the game.
 ### Crow
 The Crow's Power is to caw at an enemy bird. A bird that is cawed is unable to attack or use its power for 1 turn. The Crow may only caw once per game. 1 damage, 10 health.
 ### Meadowlark
